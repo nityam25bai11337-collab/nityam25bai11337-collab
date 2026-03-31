@@ -10,3 +10,5 @@ About Me
 What I Hope to Learn-->
 
 ->I hope to learn programming, full stack development, and artificial intelligence so that I can build useful projects and improve my technical skills.
+
+google form link for digital literacy quiz - https://docs.google.com/forms/d/e/1FAIpQLSeJmPcBdNePVRvzYuka5-MYMmCZTnyH1KDFvmSbwjMHyDz7sA/viewform?usp=publish-editor
